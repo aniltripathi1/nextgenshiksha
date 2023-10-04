@@ -1,0 +1,110 @@
+
+#header12 {
+    background-color: #f7f7f7;
+    min-height: 100vh;
+    color: #000;
+    padding-top: 100px;
+    overflow: hidden; 
+  }
+  
+  .brand-name-1 {
+    color: #213363; 
+   
+  }
+  .h1_home
+  {
+    font-size: 40px;
+  }
+  ._text-content h3{
+    font-size: 32px;
+    font-weight: 700;
+  }
+  
+
+  ._text {
+    color: #17594A;
+    font-weight: bold; 
+    font-size: 1.5em; 
+    text-transform: uppercase;
+    letter-spacing: 2px; 
+  }
+  
+  ._text-content h3 {
+    font-size: 32px;
+    font-weight: 700;
+  }
+  
+  .btn-get-started:hover {
+    background: #6e6355; 
+  }
+  
+
+  ._header-img {
+    max-width: 100%;
+    height: auto; 
+    display: block; 
+    margin: 0 auto; 
+  }
+  
+  ._animated {
+    animation: slideUpDown 4s ease-in-out infinite alternate;
+  }
+  
+  .home-sci a {
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    width: fit-content;
+    height: fit-content;
+    background: transparent;
+    border: 2px solid #8EAC50;
+    border-radius: 15%;
+    font-size: 20px;
+    color: #8EAC50;
+    text-decoration: none;
+    margin: 30px 15px 30px 0;
+    padding: 0 3px;
+  }
+  
+  .home-sci a:hover {
+    background: #8EAC50;
+    color: #081b29;
+    box-shadow: 0 0 20px #8EAC50;
+  }
+  
+  ._btn-box {
+    display: inline-block;
+    padding: 12px 28px;
+    background: #D3D04F;
+    border-radius: 40px;
+    font-size: 16px;
+    color: #081b29;
+    letter-spacing: 1px;
+    text-decoration: none;
+    font-weight: 600;
+  }
+  
+  @keyframes slideUpDown {
+    0% {
+        transform: translateY(0);
+    }
+    100% {
+        transform: translateY(20px); 
+    }
+  }
+  
+
+  @import url('https://fonts.googleapis.com/css2?family=Mulish:wght@300&display=swap');
+  
+  * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Mulish', sans-serif;
+  }
+  #home-css{
+    font-size: 20px;
+  }
+  
+  
+  

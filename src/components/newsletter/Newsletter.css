@@ -1,0 +1,16 @@
+#newsletter_card{
+    height: 600px;
+    width: 400px;
+}
+._card-title{
+    font-size: 20px;
+    font-weight: bold;
+}
+#newsletter-h2{
+   
+    font-size: 45px;
+}
+.newsletter-decoration{
+    color: orange;
+    font-size: 45px;
+}

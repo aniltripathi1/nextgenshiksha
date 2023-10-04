@@ -1,0 +1,53 @@
+*{
+    margin:0;
+    padding:0;
+    font-family:sans-serif;
+}
+
+.course_banner{
+    width:100%;
+    height:100%;
+   background-color: #faf2e8;
+    background-size:cover;
+    background-position: center;
+}
+.course_heading{
+    text-align: center;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(159, 73, 8);
+}
+
+.course_table{
+    padding: 50px ;
+    margin-left: auto;
+    margin-right: auto;
+    border-collapse: separate;
+    border-spacing: 25px 1px;
+}
+.course_video_labeling{
+    text-align: center;
+    font-size: large;
+    font-weight:500;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.course_table td {
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+.course_video_labeling{
+    font-size: 32px;
+    font-weight: 300;
+    letter-spacing: 2px;
+   
+    
+}
+iframe{
+    width: 400;
+    height: 400;
+}
+#heads{
+    font-size: 52px;
+    font-weight: 300;
+    letter-spacing: 2px;
+}
